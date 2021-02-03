@@ -1,6 +1,6 @@
 # Office_network-using-packet-tracer
 
-I designed this network configuration for the network of small ffice, given some constraints.
+I designed this network configuration for the network of small office, given some constraints.
 
 Its an interesting problem demonstrating the concepts of IP Subnetting and using RIPv2 Protocol. I am sharing this working solution so that it might be of help to others looking to learn these concepts .
 
